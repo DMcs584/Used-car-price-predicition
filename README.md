@@ -12,3 +12,6 @@ We will discover which elements are important and how they effect the car's mark
 How To install and Run the Project:
 
 Download the jupyter notebook and the data set file from github and place them in the same folder and Run the jupyter File
+
+Project Done for George Mason University, CS 584: Fall 2022
+
